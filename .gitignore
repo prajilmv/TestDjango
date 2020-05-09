@@ -1,0 +1,41 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled Code #
+#################
+*.pyc
+
+# testing tools #
+#################
+htmlcov/
+ghostdriver.log
+.coverage
+.tox/
+build/
+
+# Packaging info #
+##################
+MANIFEST.in
+dist/
+django_rest_multiple_models.egg-info/
+
+# Environment #
+###############
+setup.sh
+Vagrantfile
+.vagrant/
+testproj/
+*swp
+db.sqlite3
+env/
+
+# Docs #
+########
+docs/_build/
